@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barath2394..." /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Barath2394..." /></p>
 <h1 align="center">Hi 👋, I'm Barath C</h1>
 <h3 align="center">A passionate aspiring software engineer from India</h3>
 
