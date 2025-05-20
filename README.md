@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Barath+C!;Aspiring+Software+Engineer+from+India;Java+%7C+DSA+%7C+Web+Development+Enthusiast;Always+ready+to+learn+%26+collaborate!+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Barath C</h1>
 <h3 align="center">A passionate aspiring software engineer from India</h3>
 
