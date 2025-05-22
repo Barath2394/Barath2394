@@ -2,7 +2,7 @@
 <h3 align="center">A passionate aspiring software engineer from India</h3>
 
 <p align="center">
-  ![image alt](https://github.com/Barath2394/Barath2394/blob/main/Banner.png?raw=true)
+  <img src="https://github.com/Barath2394/Barath2394/blob/main/Banner.png?raw=true" alt="image alt">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/50W2E1rhmbY_DSLUeyBa4Zj96RdDAcHOcb_7NEVowO4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by95b3VuZy1tYW4t/Y29kaW5nLWNvbXB1/dGVyLWFuaW1lLXN0/eWxlLWlsbHVzdHJh/dGlvbl8xMjgyNDQ0/LTI2MjUxNy5qcGc_/c2VtdD1haXNfaHli/cmlkJnc9NzQw" />
