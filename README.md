@@ -2,7 +2,7 @@
 <h3 align="center">A passionate aspiring software engineer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer+from+India;Java+%7C+Spring+Boot+%7C+DSA+%7C+Web+Dev;Open+Source+Contributor+%7C+Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://www.canva.com/design/DAGn90XP0w0/dHuDgcragKfKhiNIl4TQMA/view?utm_content=DAGn90XP0w0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf4404b6507" />
 </p>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/50W2E1rhmbY_DSLUeyBa4Zj96RdDAcHOcb_7NEVowO4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by95b3VuZy1tYW4t/Y29kaW5nLWNvbXB1/dGVyLWFuaW1lLXN0/eWxlLWlsbHVzdHJh/dGlvbl8xMjgyNDQ0/LTI2MjUxNy5qcGc_/c2VtdD1haXNfaHli/cmlkJnc9NzQw" />
 
