@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barath C</h1>
-<h3 align="center">Aspiring Java Developer | Web Designer | Problem Solver</h3>
+<h3 align="center">Java | Spring Boot | Problem Solver</h3>
 
 <!-- Optional Banner -->
 <!-- <p align="center">
