@@ -1,22 +1,17 @@
-<!-- Typing header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+I'm+Barath+C.;Aspiring+Java+Developer+%7C+Web+Designer+%7C+Problem+Solver" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Barath C</h1>
+<h3 align="center">Aspiring Java Developer | Web Designer | Problem Solver</h3>
 
-<!-- Banner -->
-<p align="center">
+<!-- Optional Banner -->
+<!-- <p align="center">
   <img src="https://github.com/Barath2394/Barath2394/blob/main/Banner.png?raw=true" alt="Banner" width="80%" />
-</p>
-
-<!-- Coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+</p> -->
 
 ---
 
 ### 🧠 About Me
 
 - 🌱 Currently learning **Java**, **DSA**, and **Spring Boot**
-- 💻 Building real-world web apps with Java + MySQL
+- 💻 Building real-world web apps using Java + MySQL
 - 💬 Ask me about Java or any beginner-level tech
 - 📫 Reach me at: [barathbarath128@gmail.com](mailto:barathbarath128@gmail.com)
 - 📄 [View My Resume](https://drive.google.com/drive/folders/1lxcRfxaVtAB8wkHlXv9Kqf-t9-mu59t9)
@@ -26,9 +21,9 @@
 
 ### 🔗 Connect with Me
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/barath23/" target="_blank">
-    <img src="https://img.shields.io/badge/-Barath%20C-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barath23/" />
+    <img src="https://img.shields.io/badge/-Barath%20C-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:barathbarath128@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white" />
