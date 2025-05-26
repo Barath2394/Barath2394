@@ -6,7 +6,8 @@
 </p>
 
 <!-- ✅ Replaced with animated coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1bfc4b102018263.5fdfb203e8b8e.gif" />
+
 
 
 
