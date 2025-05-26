@@ -6,13 +6,7 @@
 </p>
 
 <!-- ✅ Replaced with animated coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
-
-
-
-
-
-
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7VE.gif" />
 
 - 🌱 **Currently learning:** Advanced Java concepts, data structures & algorithms, and exploring web development frameworks like Spring Boot.  
 - 👯 **Open to collaborate on:** Open-source Java projects and web development initiatives.  
