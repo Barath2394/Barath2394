@@ -6,7 +6,8 @@
 </p>
 
 <!-- ✅ Replaced with animated coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7VE.gif" />
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4e03dd58a47eced6d3a3807583c7130c52502b2af8c029bfcb15e3c0b45c6467/68747470733a2f2f6d656469612e74656e6f722e636f6d2f3255654e524d6955743041414141432f636f64696e672e676966" />
+
 
 - 🌱 **Currently learning:** Advanced Java concepts, data structures & algorithms, and exploring web development frameworks like Spring Boot.  
 - 👯 **Open to collaborate on:** Open-source Java projects and web development initiatives.  
