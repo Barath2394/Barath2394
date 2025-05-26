@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Barath C</h1>
-<h3 align="center">Java | Spring Boot | Problem Solver</h3>
-
 <!-- Optional Banner -->
 <!-- <p align="center">
   <img src="https://github.com/Barath2394/Barath2394/blob/main/Banner.png?raw=true" alt="Banner" width="80%" />
