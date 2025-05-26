@@ -5,7 +5,8 @@
   <img src="https://github.com/Barath2394/Barath2394/blob/main/Banner.png?raw=true" alt="Banner Image" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/50W2E1rhmbY_DSLUeyBa4Zj96RdDAcHOcb_7NEVowO4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by95b3VuZy1tYW4t/Y29kaW5nLWNvbXB1/dGVyLWFuaW1lLXN0/eWxlLWlsbHVzdHJh/dGlvbl8xMjgyNDQ0/LTI2MjUxNy5qcGc_/c2VtdD1haXNfaHli/cmlkJnc9NzQw" />
+<!-- ✅ Replaced with animated coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🌱 **Currently learning:** Advanced Java concepts, data structures & algorithms, and exploring web development frameworks like Spring Boot.  
 - 👯 **Open to collaborate on:** Open-source Java projects and web development initiatives.  
