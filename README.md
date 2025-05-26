@@ -6,7 +6,8 @@
 </p>
 
 <!-- ✅ Replaced with animated coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+
 
 
 - 🌱 **Currently learning:** Advanced Java concepts, data structures & algorithms, and exploring web development frameworks like Spring Boot.  
